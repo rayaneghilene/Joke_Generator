@@ -26,8 +26,7 @@ How does a computer catch a cold? It sneezes and gets a byte infection.
 License
 This project is licensed under the [Your License] - see the LICENSE file for details.
 
-### Contributors
-Your Name rayaneghilene
+
 ### Acknowledgments
 Special thanks to OpenAI for the pre-trained GPT-2 model.
 
