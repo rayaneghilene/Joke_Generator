@@ -11,10 +11,11 @@ This repository contains the code and model checkpoint for a joke generation NLP
 To generate jokes using this model, you can use the provided code. Here's how to get started:
 
 **Clone the Repository:**
+```
+bash
+git clone https://github.com/rayaneghilene/Joke_Generator.git
+```
 
-   ```bash
-   git clone https://github.com/rayaneghilene/Joke_Generator.git
-    ```
    
 
 ### Examples
